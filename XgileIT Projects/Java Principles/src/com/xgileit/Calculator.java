@@ -10,6 +10,7 @@ package com.xgileit;
  */
 public class Calculator {
 
+    //Declare instance variable
     private int value;
 
     /**
